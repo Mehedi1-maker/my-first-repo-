@@ -1,0 +1,27 @@
+body{
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    position: relative;
+    
+ }
+ h1{
+     color: white;
+ }
+ h2{
+     color: white;
+ }
+ p{
+     color: aqua;
+ }
+ .link-button{
+     text-decoration: none;
+     background-image: linear-gradient( red, black);
+     padding: 10px 20px;
+     color: white;
+     font-weight: 600;
+     
+ 
+     border-radius: 5px;
